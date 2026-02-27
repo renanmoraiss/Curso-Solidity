@@ -1,4 +1,4 @@
-pragma solidity ^0.8.30; //SPDX-License-Identifier: UNLICENSED
+pragma solidity ^0.8.30; //SPDX-License-Identifier: MIT
 
 contract FirstSmartContrat { //smart contract's name
     string public name;
